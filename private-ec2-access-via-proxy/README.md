@@ -34,7 +34,7 @@ In this project, Squid Proxy enables **secure access to a private EC2-hosted Ngi
 ---
 
 ## 🏗️ Architecture Diagram
-![Architecture Diagram](/private-ec2-access-via-proxy/Snapshots/structure_daigram.png)
+![Architecture Diagram](Snapshots/structure_daigram.png)
 
 ---
 
