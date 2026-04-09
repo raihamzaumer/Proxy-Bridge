@@ -243,13 +243,3 @@ Such patterns are widely used in:
 * Enterprise internal systems
 * Secure dashboards
 * Microservices architectures
-
----
-
-If you want, I can now **add Terraform code with Squid authentication**, and make it **interview-ready**, including **best commit messages and README polish** for maximum impact.
-
----
-
-If you want, I can prepare the **diagram in a more professional, GitHub-friendly style** too.
-
-Do you want me to do that next?
